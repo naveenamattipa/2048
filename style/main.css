@@ -330,9 +330,10 @@ hr {
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
   background: #eee4da;
+  text-indent:-9999px; 
     background-image:url("cake1.jpg");
     background-size:106px 106px;
-    text-indent:-9999px; }
+   }
   .tile.tile-4 .tile-inner {
     background: #ede0c8;
     background-image:url("cake2.jpg");
